@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T17:23:44.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.3" etag="NuDoLUKmB6-mKyYYoBN5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T18:59:42.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6aTfVFPboCP9tVdipYnN" version="24.5.3" type="github">
   <diagram name="Page-1" id="GntFCAyV3l3CCseKhm26">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kf9Lc-weeFuL4Gf8Y0lf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="120" width="640" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="kf9Lc-weeFuL4Gf8Y0lf-2" value="AWS Cloud -Melco Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="78" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kf9Lc-weeFuL4Gf8Y0lf-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="120" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kf9Lc-weeFuL4Gf8Y0lf-5" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="145" y="130" width="560" height="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
